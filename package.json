@@ -8,12 +8,13 @@
     "dev": "nodemon index.js"
   },
   "keywords": [
-    "meal",
-    "food",
-    "recipe",
+    "game",
+    "players",
+    "leader board",
     "app",
-    "node",
-    "next"
+    "node.js",
+    "postgresql",
+    "express.js"
   ],
   "author": "Favour Akomolafe",
   "license": "ISC",
