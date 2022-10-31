@@ -1,0 +1,28 @@
+{
+  "name": "leader board app",
+  "version": "1.0.0",
+  "description": "App to store and display players with highest points",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "meal",
+    "food",
+    "recipe",
+    "app",
+    "node",
+    "next"
+  ],
+  "author": "Favour Akomolafe",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "pg": "^8.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
